@@ -14,5 +14,5 @@
 📫 Reach me via email at: smitkadivar7@gmail.com
 
 🎓 Pre-Final Year IT student passionate about Cloud Computing, DevOps, and Automation.<br>
-💼 B.Tech in IT from DEPSTAR - CHARUSAT, with a Diploma in IT from Lukhdhirji Engineering College - Morbi. 🌟 Preferred Languages: Java.
+💼 B.Tech in IT from DEPSTAR - CHARUSAT, with a Diploma in IT from Lukhdhirji Engineering College - Morbi. 
 
