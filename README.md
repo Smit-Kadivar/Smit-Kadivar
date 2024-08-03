@@ -1,16 +1,18 @@
-##																																			 Hi there 👋 Smit Kadivar
+## <h1 align="center">Hi 👋, I'm Smit Kadivar</h1> 
 
-<!--
-**Smit-Kadivar/Smit-Kadivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## <h2 align="center">Cloud Enthusiastic!</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔭 I’m currently working on <b>DevOps</b>
+
+🌱 I'm currently learning about <b>DevOps, including CI/CD, Containerization, Orchestration, IaC, Monitoring tools, and Cloud computing with AWS</b>
+
+
+
+📫 Reach me via email at: smitkadivar7@gmail.com
+
+🎓 Pre-Final Year IT student passionate about Cloud Computing, DevOps, and Automation.<br>
+💼 B.Tech in IT from DEPSTAR - CHARUSAT, with a Diploma in IT from Lukhdhirji Engineering College - Morbi. 🌟 Preferred Languages: Java.
+
