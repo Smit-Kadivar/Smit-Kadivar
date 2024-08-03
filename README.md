@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Smit Kadivar
 
 <!--
 **Smit-Kadivar/Smit-Kadivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
