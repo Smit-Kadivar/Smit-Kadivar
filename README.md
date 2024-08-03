@@ -1,7 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Smit Kadivar</h1> 
-
-
-## <h2 align="center">Cloud Enthusiastic!</h2>
+<h2 align="center">Cloud Enthusiastic!</h2>
 
 
 
