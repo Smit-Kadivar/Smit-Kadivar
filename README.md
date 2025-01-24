@@ -1,11 +1,11 @@
 ## <h1 align="center">Hi 👋, I'm Smit Kadivar</h1> 
-<h2 align="center">Cloud Enthusiastic!</h2>
+<h2 align="center">Web Development & Cloud Enthusiastic!</h2>
 
 
 
-🔭 I’m currently working on <b>DevOps</b>
+🔭 I’m currently working on <b>Web Development</b>
 
-🌱 I'm currently learning about <b>DevOps, including CI/CD, Containerization, Orchestration, IaC, Monitoring tools, and Cloud computing with AWS</b>
+🌱 I'm currently learning about <b>Web Development - MERN Stack.</b>
 
 
 
